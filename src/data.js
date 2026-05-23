@@ -28,7 +28,7 @@ const questions = [
     id: 2,
     title: "Popular restaurant types near me",
     infos: [
-      "Bars near me • ",
+      "Beer near me • ",
       "Bakeries near me • ",
       "Beverage Shops near me • ",
       "Bhojanalya near me • ",
